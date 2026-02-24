@@ -1,4 +1,4 @@
 pdfplumber
 pandas
 openpyxl
-streamlit
+streamlit>=1.31.0
